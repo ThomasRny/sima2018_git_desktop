@@ -5262,14 +5262,14 @@ body.exposer #main .site-wrapper {
     font-family: "Roboto-condensed-regular", Helvetica, Arial, sans-serif
 }
 
-.mod-catal .catal-ex-item.is-premium {
+.mod-catal .catal-ex-item.top-premium {
     background: white;
     border: 0.2rem solid #F26C4A;
     color: #6e6e6e;
     position: relative
 }
 
-.mod-catal .catal-ex-item.is-premium::after {
+.mod-catal .catal-ex-item.top-premium::after {
     position: absolute;
     display: block;
     right: 0;
@@ -5582,7 +5582,7 @@ body.exposer #main .site-wrapper {
     margin-bottom: 15px
 }
 
-.mod-catal .catal-ex-item.is-premium {
+.mod-catal .catal-ex-item.top-premium {
     background-color: #F4F4F4;
     border: 1px solid #A54A35
 }
@@ -7945,3 +7945,5 @@ h1.main-title {
 .exposant .mod-catal .catal-ex-item.is-premium .catal-ex-item-title a {
     color: #f26c4a;
 }
+
+
